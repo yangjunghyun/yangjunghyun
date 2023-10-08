@@ -1,4 +1,4 @@
-### Hi there 👋
+### 양정현(Junghyun Yang) - Junghyeonee
 
 <!--
 **yangjunghyun/yangjunghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junghyunyang01)](https://www.linkedin.com/in/junghyunyang01) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yangrha45@naver.com)](mailto:yangrha45@naver.com) <a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/junghyeonee/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
