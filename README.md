@@ -21,6 +21,9 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yangjunghyun&show_icons=true&theme=tokyonight)
+
+
 #### 🎓 수료증 및 자격증 
 - 2022 산업 프로젝트 기반 융합형 빅데이터 분석 전문가 과정 ✅
 - 2023 데이터 청년 캠퍼스 스마트시티 AI·빅데이터 활용 고도화 과정 ✅
@@ -32,3 +35,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
