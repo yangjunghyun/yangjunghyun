@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 2023 데이터 청년 캠퍼스 스마트시티 AI·빅데이터 활용 고도화 과정 ✅
 - 2023 Google Machine Learning Bootcamp <진행중>
 
-- 빅데이터분석기사 자격증 필기 합격
+- 빅데이터분석기사 자격증 <진행중 필기 합격 상태>
 
 #### 🛠️ 사용 플랫폼 & 언어
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
