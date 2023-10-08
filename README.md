@@ -1,4 +1,5 @@
 ### 양정현(Junghyun Yang) - Junghyeonee
+---
 
 <!--
 **yangjunghyun/yangjunghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +20,7 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/junghyeonee/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+
+### Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
