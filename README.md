@@ -19,7 +19,8 @@ Here are some ideas to get you started:
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/junghyeonee/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>  <a href="https://zrr.kr/roa2"><img src="https://img.shields.io/badge/Porfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://zrr.kr/roa2"/></a>
+</a>  <a href="https://zrr.kr/roa2"><img src="https://img.shields.io/badge/Porfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://zrr.kr/roa2"/></a>  <a href="https://velog.io/@yangjunghyun"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yangjunghyun"/></a>
+
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yangjunghyun&show_icons=true&theme=tokyonight)-->
 
