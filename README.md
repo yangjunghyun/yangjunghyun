@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<-- <a href="https://velog.io/@yangjunghyun"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yangjunghyun"/></a> -->
 <a href="https://zrr.kr/roa2"><img src="https://img.shields.io/badge/Porfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://zrr.kr/roa2"/></a> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junghyunyang01)] (https://www.linkedin.com/in/junghyunyang01) [![Gmail Badge](https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yangrha45@naver.com)](mailto:yangrha45@naver.com) <a href="https://instagram.com/junghyeonee">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/junghyeonee/"
