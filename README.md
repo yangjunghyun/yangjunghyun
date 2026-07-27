@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 2022 산업 프로젝트 기반 융합형 빅데이터 분석 전문가 과정 ✅
 - 2023 데이터 청년 캠퍼스 스마트시티 AI·빅데이터 활용 고도화 과정 ✅
 - 2023 Google Machine Learning Bootcamp ✅
+- 2024 Tableau 신병훈련소 26기 ✅
 
 #### 📑 자격증
 - 2023.12 빅데이터분석기사
