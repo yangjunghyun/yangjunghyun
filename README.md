@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 - 2023.12 빅데이터분석기사
 
 #### 🛠️ 사용 플랫폼 & 언어
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
